@@ -22,3 +22,5 @@ Things to change later:
 Updated version: includes the raven emblem in the header and Robert Rosina's headshot in the founder section.
 
 Updated version: adds a LinkedIn profile link with icon in the founder section.
+
+Linked update: founder section and footer now link to Robert Rosina Music at https://www.robertrosina.com/.

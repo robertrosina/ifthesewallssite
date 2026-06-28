@@ -632,6 +632,20 @@ p { margin: 0; color: var(--muted); }
   flex: 0 0 auto;
 }
 .founder-copy p + p { margin-top: 1rem; }
+.founder-related {
+  margin-top: 1.2rem !important;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--line);
+}
+.founder-related a {
+  color: var(--ember-2);
+  border-bottom: 1px solid rgba(224,183,124,.42);
+}
+.founder-related a:hover,
+.founder-related a:focus-visible {
+  color: var(--stone);
+  border-bottom-color: rgba(235,227,213,.64);
+}
 .contact-section { padding-top: 20px; }
 .contact-card {
   align-items: center;
